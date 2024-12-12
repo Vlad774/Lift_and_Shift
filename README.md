@@ -33,5 +33,9 @@ This project migrates the vProfile multi-tier web application stack from a tradi
 
  ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/Diagramm.png) 
  ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/artifact.png) 
- ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/Automated_setup.png)
- ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/config.png)
+ ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/instances.png)
+ ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/volumes.png)
+ ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/security%20sgoup.png)
+ ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/target%20groups.png)
+ ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/autoscalling.png)
+ ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/backend.sh.png)
