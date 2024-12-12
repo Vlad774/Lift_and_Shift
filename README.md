@@ -29,3 +29,9 @@ This project migrates the vProfile multi-tier web application stack from a tradi
   
 
 ## Walk-through:
+
+
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/Diagramm.png) 
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/VM_machine_Setup_IAC.png) 
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/Automated_setup.png)
+ ![First try](https://github.com/Vlad774/IoT-WebOps-Stack-with-IaC/blob/main/config.png)
