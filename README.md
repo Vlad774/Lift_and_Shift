@@ -2,7 +2,7 @@
 
 ## Description
 
-This project migrates the vProfile multi-tier web application stack from a traditional data center to AWS Cloud using a lift-and-shift strategy. The goal is to modernize the application, reduce costs, and enhance scalability through AWS services and automated deployment.
+The project involves migrating a multi-tier web application from a traditional data center to the AWS Cloud using a lift-and-shift strategy. The primary objectives are to modernize the application, reduce operational costs, and enhance scalability by leveraging AWS services and implementing automated deployment processes.
 
 ##Technologies
 
